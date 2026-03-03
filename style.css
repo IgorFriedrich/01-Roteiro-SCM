@@ -88,3 +88,8 @@ body {
 
 /* ========== FOOTER ========== */
 /* TODO: Adicionar estilos para o rodapé */
+h1 {
+    color: #2ecc71;
+    font-size: 3rem;
+    text-align: left;
+}
